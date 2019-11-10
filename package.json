@@ -1,0 +1,22 @@
+{
+  "name": "color-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Will130785/color-game.git"
+  },
+  "author": "Will Constable",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Will130785/color-game/issues"
+  },
+  "homepage": "https://github.com/Will130785/color-game#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
