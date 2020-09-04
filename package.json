@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Will130785/color-game#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
